@@ -17,7 +17,7 @@
                 <visible>Control.IsVisible(10)</visible>
                 <control type="epggrid" id="10" description="EPG">
                     <left>0</left>
-                    <top>611</top>
+                    <top>612</top>
                     <width>1920</width>
                     <height>420</height>
                     <onleft>28</onleft>
@@ -28,7 +28,7 @@
                     <scrolltime tween="quadratic">300</scrolltime>
                     <timeblocks>40</timeblocks>
                     <rulerunit>6</rulerunit>
-                    <rulerlayout height="70" width="260">
+                    <rulerlayout height="75" width="260">
                         <control type="label" id="2">
                             <posx>40</posx>
                             <posy>46</posy>
@@ -37,7 +37,7 @@
                             <aligny>top</aligny>
                             <font>font_epg_timeline</font>
                             <label>$INFO[ListItem.Label]</label>
-                            <textcolor>main_fg_30</textcolor>
+                            <textcolor>main_fg_70</textcolor>
                         </control>
                     </rulerlayout>
                     <channellayout height="70" width="460">

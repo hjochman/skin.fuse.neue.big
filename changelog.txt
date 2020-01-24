@@ -1,3 +1,9 @@
+[B]1.0.5[/B]
+Renamed to skin.fuse.neue.big and imported changes from https://forum.kodi.tv/showthread.php?tid=317776
+Made all fonts bigger
+Added outline to scrolling text of music visualisation to make it better readble on small screens
+If a music track ist started switch to playback screen
+
 [B]1.0.4[/B]
 Fix clearlogo in extended info
 Fix flags
